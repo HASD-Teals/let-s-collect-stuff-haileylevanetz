@@ -55,6 +55,6 @@ public class Collectable {
     }
     // Methods
     public String toString(){
-        return this.brand + " " + this.model + " " + this.model + " " + this.type + " " + this.value + " ";
+        return this.brand + " " + this.model + " " + this.color + " " + this.type + " " + this.value + " ";
     }
 }
